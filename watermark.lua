@@ -1,0 +1,12 @@
+local a,b,c,d,e=LocalPlayer(),exechack_api.GetUserName(),engine.ActiveGamemode(),GetHostName(),math.Round(1/engine.TickInterval()-1)
+local f="exechack | "..b.." | "..c.." | "..d.." | "..a:Ping().."ms | "..e.."tick"
+local g=Color(95,153,191)
+surface.CreateFont("watermark",{font="Roboto",size=20})
+local h=ScrW()
+hook.Add("HUDPaint","watermark",function()
+    surface.SetFont("watermark")
+    local i,j=surface.GetTextSize(f)
+    draw.RoundedBox(0,h-i-25,100,i+10,30,exechack_api.cfg_GetValue("STYLE_WINDOWBG"))
+    draw.RoundedBox(0,h-i-24,126,i+8,3,g)
+    draw.SimpleText(f,"watermark",h-i-20,100+3,exechack_api.cfg_GetValue("STYLE_TEXT"))
+end)
