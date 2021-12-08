@@ -131,5 +131,12 @@
 		"image":"",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/tracebullets.lua",
 		"add_by":"Uploaded by Exec"
+	},
+        "Admin List":{
+		"name":"adminlist",
+		"description":"Показывает всех админов",
+		"image":"",
+		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/adminlist.lua",
+		"add_by":"Uploaded by Exec"
 	}
 }
