@@ -5,5 +5,12 @@
 		"image":"https://i.imgur.com/YnmHzQ3.png",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/watermark.lua",
 		"add_by":"Created by Exec"
+	},
+	"Cheat Marker":{
+		"name":"cheatmarker_autorun",
+		"description":"показывает радужный ник над читером, который в базе от Erick_Maksimets\n8к стимайдишников",
+		"image":"https://i.imgur.com/Nm8m6TA.png",
+		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/cheatemarker.lua",
+		"add_by":"Created by Exec"
 	}
 }
