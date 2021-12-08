@@ -1,0 +1,1 @@
+hook.Remove("HUDPaint","Draw_NLR_Circle")
