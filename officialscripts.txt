@@ -26,5 +26,12 @@
 		"image":"https://i.imgur.com/hpV7MJc.png",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/familysharingchecker.lua",
 		"add_by":"Created by Exec"
+	},
+	"Legit mode on spectate":{
+		"name":"legitmode_autorun",
+		"description":"Отключает nospread, включает smooth во время наблюдения админа\nexechackapi enabled!",
+		"image":"",
+		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/legitmode.lua",
+		"add_by":"Created by Exec"
 	}
 }
