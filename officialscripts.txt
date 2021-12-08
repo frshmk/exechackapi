@@ -49,7 +49,7 @@
 		"add_by":"Uploaded by undertwink"
 	},
         "cringe hack":{
-		"cringehack",
+		"name":"cringehack",
 		"description":"какаято луа паста,открыть cringemenu в консоль",
 		"image":"https://i.imgur.com/IW8ZEnT.png",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/cringehack.lua",
