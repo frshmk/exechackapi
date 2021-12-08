@@ -16,7 +16,7 @@
         "Chams":{
 		"name":"chams",
 		"description":"делает красивые чамсы на руки и оружие",
-		"image":"https://imgur.com/a/IXds3x4",
+		"image":"https://i.imgur.com/X47l6rt.png",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/chams.lua",
 		"add_by":"Uploaded by undertwink"
 	}
