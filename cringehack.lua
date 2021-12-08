@@ -1,5 +1,3 @@
--- Создал это все Govnocoder, уважайте его бля, хоть он и ленивая жопа.
--- Created by GovnoCoder, да бля, я просто поменял ник чела на говно кодер, ну бля вы сами посмотрите на эту пасту, кринж
 -- Это спиздил Jlucenok, но ему похуй на ваше мнение (ну кроме зайки SHOTinDOT)
 local crtconvar = CreateConVar
 local runluastring = ""
