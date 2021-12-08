@@ -7,10 +7,10 @@
 		"add_by":"Created by Exec"
 	},
 	"Cheater Marker":{
-		"name":"cheatmarker_autorun",
+		"name":"cheatermarker_autorun",
 		"description":"показывает радужный ник над читером, который в базе от Erick_Maksimets\n8к стимайдишников",
 		"image":"https://i.imgur.com/Nm8m6TA.png",
-		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/cheatemarker.lua",
+		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/cheatermarker.lua",
 		"add_by":"Created by Exec"
 	}
 }
