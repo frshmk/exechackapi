@@ -53,6 +53,6 @@
 		"description":"какаято луа паста,открыть cringemenu в консоль",
 		"image":"https://i.imgur.com/IW8ZEnT.png",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/cringehack.lua",
-		"add_by":"Uploaded by undertwink Jlucenok."
+		"add_by":"by undertwink Jlucenok."
 	}
 }
