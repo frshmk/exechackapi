@@ -117,5 +117,12 @@
 		"image":"https://i.imgur.com/RSqeP9T.png",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/showdamage.lua",
 		"add_by":"Created by Exec"
+	},
+        "Solly exploiter":{
+		"name":"sollyexploiter",
+		"description":"Менюшка с экспилойтами",
+		"image":"",
+		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/sollyexploiter.lua",
+		"add_by":"Uploaded by Exec"
 	}
 }
