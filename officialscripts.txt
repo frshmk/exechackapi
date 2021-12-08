@@ -75,5 +75,12 @@
 		"image":"https://i.imgur.com/XfeJpKz.png",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/dark_bangclaw.lua",
 		"add_by":"Created by Exec"
+	},
+        "Fast Flashlight":{
+		"name":"fastflashlight",
+		"description":"Позволяет быстро включать/выключать фонарик",
+		"image":"https://i.imgur.com/DNwlyLU.png",
+		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/flashlight.lua",
+		"add_by":"Uploaded by undertwink"
 	}
 }
