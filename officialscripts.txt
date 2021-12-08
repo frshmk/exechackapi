@@ -1,0 +1,14 @@
+{
+	"gaysexlua":{
+		"name":"exechack.lua",
+		"description":"obkak lua \n hacked server",
+		"image":"https://media.tenor.co/videos/d0f165496d476a3f24339a06b9811796/mp4",
+		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/watermark.lua"
+	},
+	"gaysexlua1":{
+		"name":"exechack1.lua",
+		"description":"obkak lua \n hacked server",
+		"image":"https://media.tenor.co/videos/d0f165496d476a3f24339a06b9811796/mp4",
+		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/watermark.lua"
+	},
+}
