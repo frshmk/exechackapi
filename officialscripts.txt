@@ -37,7 +37,7 @@
 	"Crosshair Swastika":{
 		"name":"crosshair_swastika",
 		"description":"Крутится и rainbow цветом",
-		"image":"",
+		"image":"https://i.imgur.com/MjDEUje.png",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/crosshair.lua",
 		"add_by":"skeet to gmod by Exec"
 	},
@@ -97,5 +97,4 @@
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/fullbright_autorun.lua",
 		"add_by":"Created by Exec"
 	}
-}
 }
