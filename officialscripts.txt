@@ -65,7 +65,7 @@
         "TTS":{
 		"name":"tts",
 		"description":"Озвучивает сообщения всех игроков",
-		"image":"https://i.imgur.com/RSqeP9T.png",
+		"image":"https://i.imgur.com/0c9Kn9C.png",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/tts.lua",
 		"add_by":"Created by Exec"
 	},
