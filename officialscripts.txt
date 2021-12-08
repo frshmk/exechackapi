@@ -12,5 +12,11 @@
 		"image":"https://i.imgur.com/Nm8m6TA.png",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/cheatermarker.lua",
 		"add_by":"Created by Exec"
-	}
-}
+	},
+        "Chams":{
+		"name":"chams_autorun",
+		"description":"делает красивые чамсы на руки и оружие",
+		"image":"https://imgur.com/a/IXds3x4",
+		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/chams.lua",
+		"add_by":"Created by undertwink"
+	},
