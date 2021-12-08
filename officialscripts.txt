@@ -4,6 +4,6 @@
 		"description":"show name cheat, username, ping, tickrate, nameserver, gamemode",
 		"image":"https://i.imgur.com/YnmHzQ3.png",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/watermark.lua",
-		"add_by":"Exec"
+		"add_by":"Created by Exec"
 	}
 }
