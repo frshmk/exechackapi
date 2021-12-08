@@ -47,12 +47,5 @@
 		"image":"https://i.imgur.com/rjRH2sp.png",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/putinhackv6.lua",
 		"add_by":"Uploaded by undertwink"
-	},
-        "cringe hack":{
-		"cringehack",
-		"description":"какаято луа паста,открыть cringemenu в консоль",
-		"image":"https://i.imgur.com/IW8ZEnT.png",
-		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/cringehack.lua",
-		"add_by":"Uploaded by undertwink Jlucenok."
 	}
 }
