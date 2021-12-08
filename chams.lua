@@ -55,4 +55,4 @@ hook.Add("PostDrawViewModel", "PostViewModelChams", function()
     IsDrawingGlow = true
     LocalPlayer():GetViewModel():DrawModel()
     IsDrawingGlow = false
-end
+end)
