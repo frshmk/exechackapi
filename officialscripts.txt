@@ -82,5 +82,12 @@
 		"image":"https://i.imgur.com/DNwlyLU.png",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/flashlight.lua",
 		"add_by":"Uploaded by undertwink"
+	},
+        "Rainbow Sky":{
+		"name":"rainbowsky",
+		"description":"Делает небо радужным",
+		"image":"",
+		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/rainbowsky.lua",
+		"add_by":"Uploaded by undertwink"
 	}
 }
