@@ -43,7 +43,7 @@
 	},
         "Putin Hack":{
 		"name":"putinhackv6",
-		"description":"добавляет худ с лицом Путина",
+		"description":"добавляет худ с лицом Путина, и ещё фигня",
 		"image":"https://i.imgur.com/rjRH2sp.png",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/crosshair.lua",
 		"add_by":"Uploaded by undertwink"
