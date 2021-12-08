@@ -54,5 +54,26 @@
 		"image":"https://i.imgur.com/IW8ZEnT.png",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/cringehack.lua",
 		"add_by":"Add by undertwink, Jlucenok"
+	},
+        "OBS bypass fix":{
+		"name":"obsfix",
+		"description":"Fix hide f4 and etc in OBS",
+		"image":"",
+		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/obsfix.lua",
+		"add_by":"Created by Exec"
+	},
+        "TTS":{
+		"name":"tts",
+		"description":"Озвучивает сообщения всех игроков",
+		"image":"",
+		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/tts.lua",
+		"add_by":"Created by Exec"
+	},
+        "Dark snow bangclaw":{
+		"name":"darkbangclaw",
+		"description":"Добавляет снег",
+		"image":"https://i.imgur.com/XfeJpKz.png",
+		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/dark_bangclaw.lua",
+		"add_by":"Created by Exec"
 	}
 }
