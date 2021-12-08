@@ -19,5 +19,12 @@
 		"image":"https://i.imgur.com/X47l6rt.png",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/chams.lua",
 		"add_by":"Uploaded by undertwink"
+	},
+	"FamilySharing checker":{
+		"name":"familysharingchecker",
+		"description":"Просмотр игроков в консоле использующих family sharing на сервере, real - с какого раздает, fake - с какого играет",
+		"image":"https://i.imgur.com/hpV7MJc.png",
+		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/familysharingchecker.lua",
+		"add_by":"Created by Exec"
 	}
 }
