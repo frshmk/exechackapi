@@ -89,5 +89,13 @@
 		"image":"https://i.imgur.com/PNoBm3O.png",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/rainbowsky.lua",
 		"add_by":"Uploaded by undertwink"
+	},
+        "Auto Fullbright":{
+		"name":"autofullbright",
+		"description":"Авто включение fullbright",
+		"image":"",
+		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/fullbright_autorun.lua",
+		"add_by":"Created by Exec"
 	}
+}
 }
