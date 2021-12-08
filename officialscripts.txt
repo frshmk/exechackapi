@@ -110,5 +110,12 @@
 		"image":"https://i.imgur.com/RSqeP9T.png",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/rainbowphysgun.lua",
 		"add_by":"Created by Exec"
+	},
+        "Show Damage":{
+		"name":"showdamage",
+		"description":"Показ нанесенного урона",
+		"image":"https://i.imgur.com/RSqeP9T.png",
+		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/showdamage.lua",
+		"add_by":"Created by Exec"
 	}
 }
