@@ -40,5 +40,12 @@
 		"image":"",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/crosshair.lua",
 		"add_by":"skeet to gmod by Exec"
+	},
+        "Putin Hack":{
+		"name":"putinhackv6",
+		"description":"добавляет худ с лицом Путина",
+		"image":"https://i.imgur.com/rjRH2sp.png",
+		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/crosshair.lua",
+		"add_by":"Uploaded by undertwink"
 	}
 }
