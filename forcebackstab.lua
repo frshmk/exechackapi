@@ -1,6 +1,7 @@
- 	function Backstab( ucmd )
+local function Backstab( ucmd )
 		viewang = ucmd:GetViewAngles()
             if(input.WasKeyPressed(KEY_E)) then
+            	backstabdelay=true
         end
         if(backstabdelay == true) then
         	ucmd:SetViewAngles(viewang + Angle(45, 90 , 0))
