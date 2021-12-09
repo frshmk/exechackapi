@@ -21,12 +21,16 @@ net.WriteUInt(5, 5)
 net.WriteUInt(20, 5)
 net.SendToServer()
 net.Start("rp.ApplyGenome")
+net.WriteUInt(20, 5)
+net.WriteUInt(0, 5)
+net.WriteUInt(0, 5)
+net.SendToServer()
+net.Start("rp.ApplyGenome")
 net.WriteUInt(5, 5)
 net.WriteUInt(20, 5)
 net.WriteUInt(5, 5)
 net.SendToServer()
 end)
-
 /*Элита*/
 concommand.Add("/elite", function()
 net.Start("rp.ApplyGenome")
@@ -35,7 +39,6 @@ net.WriteUInt(5, 5)
 net.WriteUInt(20, 5)
 net.SendToServer()
 end)
-
 /*Джаггернаут*/
 concommand.Add("/jugger", function()
 net.Start("rp.ApplyGenome")
@@ -44,7 +47,6 @@ net.WriteUInt(5, 5)
 net.WriteUInt(5, 5)
 net.SendToServer()
 end)
-
 /*Скаут*/
 concommand.Add("/scout", function()
 net.Start("rp.ApplyGenome")
@@ -53,7 +55,6 @@ net.WriteUInt(20, 5)
 net.WriteUInt(5, 5)
 net.SendToServer()
 end)
-
 /*Снайпер*/
 concommand.Add("/sniper", function()
 net.Start("rp.ApplyGenome")
@@ -62,7 +63,6 @@ net.WriteUInt(0, 5)
 net.WriteUInt(0, 5)
 net.SendToServer()
 end)
-
 /*Полицейский*/
 concommand.Add("/police", function()
 net.Start("rp.ApplyGenome")
@@ -71,7 +71,6 @@ net.WriteUInt(10, 5)
 net.WriteUInt(10, 5)
 net.SendToServer()
 end)
-
 /*Нападение*/
 concommand.Add("/napadenie", function()
 net.Start("rp.ApplyGenome")
@@ -80,6 +79,13 @@ net.WriteUInt(15, 5)
 net.WriteUInt(15, 5)
 net.SendToServer()
 end)
-
+/*Пулеметчик*/
+concommand.Add("/pulemet", function()
+net.Start("rp.ApplyGenome")
+net.WriteUInt(20, 5)
+net.WriteUInt(0, 5)
+net.WriteUInt(0, 5)
+net.SendToServer()
+end)
 --шпиона нет потому что он юзлесс
-print("Voenkom loh")
+exechack_api.Notification("RusEliteRP Genome Exploit Loaded")
