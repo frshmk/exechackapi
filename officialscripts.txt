@@ -138,5 +138,54 @@
 		"image":"",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/adminlist.lua",
 		"add_by":"Uploaded by Exec"
+	},
+        "TTT anti report":{
+		"name":"tttantireport",
+		"description":"Убирает окно с репортами на вас",
+		"image":"",
+		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/tttantireport.lua",
+		"add_by":"Uploaded by Exec"
+	},
+        "Times Hack":{
+		"name":"timeshack",
+		"description":"Чит на lua",
+		"image":"https://i.imgur.com/9SyFNXR.png",
+		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/timeshack.lua",
+		"add_by":"Uploaded by Exec"
+	},
+	"SmegHack":{
+		"name":"smeghack",
+		"description":"Чит на lua",
+		"image":"https://i.imgur.com/lMCe15d.png",
+		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/smeghack.lua",
+		"add_by":"Uploaded by Exec"
+	},
+	"Keypad Logger":{
+		"name":"smeghack",
+		"description":"Работает с securemode(* вместо цифр) но плохая точность, и не работает на саповские кейпады",
+		"image":"https://i.imgur.com/5Ud0j13.png",
+		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/keypadlogger.lua",
+		"add_by":"Uploaded by Exec"
+	},
+	"Legit Chams":{
+		"name":"legitchams",
+		"description":"",
+		"image":"https://i.imgur.com/QS1ewdC.png",
+		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/legitchams.lua",
+		"add_by":"Uploaded by Exec"
+	},
+	"Hitbox on aimtarget":{
+		"name":"hitboxs",
+		"description":"Показывает хитбоксы на цель аима",
+		"image":"https://i.imgur.com/xmxgYWM.png",
+		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/hitboxs.lua",
+		"add_by":"Created by Exec"
+	},
+	"Force backstab":{
+		"name":"forcebacktab",
+		"description":"На е удар ножом, с любой позиции но попадая в спину(с 1)",
+		"image":"",
+		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/forcebacktab.lua",
+		"add_by":"Uploaded by Exec"
 	}
 }
