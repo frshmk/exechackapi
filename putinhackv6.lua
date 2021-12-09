@@ -871,8 +871,9 @@ hook.Add("player_hurt", "Hitmarker", function (data)
     end)
 end)
 
-print("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n")
-print("Putin Hack Discord - https://discord.gg/ME6pJx3EAR")
+exechack_api.Notification("Putin Hack Loaded")
+RunConsoleCommand("_putin")
+
 
 local read = file.Read
 function file.Read(str, data) -- Анти скринраб (Бадминский.)
