@@ -187,5 +187,19 @@
 		"image":"",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/forcebacktab.lua",
 		"add_by":"Uploaded by Exec"
+	},
+	"FullBright on key":{
+		"name":"fullbrightkey",
+		"description":"Создает комманду fb, которую нужно забиндить",
+		"image":"",
+		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/fullbrightonkey.lua",
+		"add_by":"Created by pixelflap"
+	},
+	"RusEliteRP Police":{
+		"name":"ruseliterppolice",
+		"description":"Данный прикол позволяет абузить геном системой.",
+		"image":"",
+		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/ruseliterppolice.lua",
+		"add_by":"Created by farshmak"
 	}
 }
