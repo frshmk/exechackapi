@@ -114,7 +114,7 @@
         "Show Damage":{
 		"name":"showdamage",
 		"description":"Показ нанесенного урона",
-		"image":"https://i.imgur.com/RSqeP9T.png",
+		"image":"https://i.imgur.com/57vOzaI.png",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/showdamage.lua",
 		"add_by":"Created by Exec"
 	},
@@ -128,14 +128,14 @@
         "Admin List":{
 		"name":"adminlist",
 		"description":"Показывает всех админов в окне",
-		"image":"",
+		"image":"https://i.imgur.com/K85stvL.png",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/adminlist.lua",
 		"add_by":"Uploaded by Exec"
 	},
         "TTT anti report":{
 		"name":"tttantireport",
 		"description":"Убирает окно с репортами на вас",
-		"image":"",
+		"image":"https://i.imgur.com/3ZdzJVy.png",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/tttantireport.lua",
 		"add_by":"Uploaded by Exec"
 	},
@@ -177,21 +177,21 @@
 	"Force backstab":{
 		"name":"forcebacktab",
 		"description":"На е удар ножом, с любой позиции но попадая в спину(с 1)",
-		"image":"",
+		"image":"https://i.imgur.com/1PYaa9u.png",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/forcebacktab.lua",
 		"add_by":"Uploaded by Exec"
 	},
 	"FullBright on key":{
 		"name":"fullbrightkey",
 		"description":"Создает комманду fb, которую нужно забиндить",
-		"image":"",
+		"image":"https://i.imgur.com/Dlqc7dY.png",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/fullbrightonkey.lua",
 		"add_by":"Created by pixelflap"
 	},
 	"RusEliteRP Police":{
 		"name":"ruseliterppolice",
 		"description":"Данный прикол позволяет абузить геном системой.",
-		"image":"",
+		"image":"https://i.imgur.com/3ZdzJVy.png",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/ruseliterppolice.lua",
 		"add_by":"Created by farshmak"
 	}
