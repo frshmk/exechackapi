@@ -190,7 +190,7 @@
 	},
 	"RusEliteRP Genome Exploit":{
 		"name":"ruseliterppolice",
-		"description":"Данный прикол позволяет абузить геном системой.",
+		"description":"Данный прикол позволяет абузить геном системой за полицейского.\nconcommand: /custom",
 		"image":"https://i.imgur.com/QzZKTMk.png",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/ruseliterppolice.lua",
 		"add_by":"Created by farshmak"
