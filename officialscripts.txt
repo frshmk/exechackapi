@@ -44,7 +44,7 @@
         "Putin Hack v6":{
 		"name":"putinhackv6",
 		"description":"Изменяет local player чамсы, добавляет крутой худ.\nМеню:  _putin в консоль",
-		"image":"https://i.imgur.com/u01dY1E.png",
+		"image":"https://i.imgur.com/Jol5pMI.png",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/putinhackv6.lua",
 		"add_by":"By farshmak & Gnome"
 	},
