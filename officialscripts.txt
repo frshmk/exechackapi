@@ -92,14 +92,14 @@
 	},
         "Auto Fullbright":{
 		"name":"autofullbright",
-		"description":"Авто включение fullbright, на bangclaw",
+		"description":"Авто включение fullbright, на bangclaw, в позъемке",
 		"image":"https://i.imgur.com/G1EkRmw.png",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/fullbright_autorun.lua",
 		"add_by":"Created by Exec"
 	},
         "AntiNLR":{
 		"name":"antinlr",
-		"description":"Отключает NLR зону",
+		"description":"Отключает NLR эффект",
 		"image":"https://i.imgur.com/G2Ke5Df.png",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/antinlr.lua",
 		"add_by":"Uploaded by Exec"
@@ -134,7 +134,7 @@
 	},
         "Admin List":{
 		"name":"adminlist",
-		"description":"Показывает всех админов",
+		"description":"Показывает всех админов в окне",
 		"image":"",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/adminlist.lua",
 		"add_by":"Uploaded by Exec"
