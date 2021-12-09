@@ -149,7 +149,7 @@
 	"SmegHack":{
 		"name":"smeghack",
 		"description":"Чит на lua",
-		"image":"https://i.imgur.com/a/6RotdyW.png",
+		"image":"https://i.imgur.com/5VGwG1M.png",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/smeghack.lua",
 		"add_by":"Uploaded by Exec"
 	},
