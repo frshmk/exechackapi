@@ -1,6 +1,3 @@
--- https://discord.gg/ME6pJx3EAR
-
-
 local file, Material, Fetch, find = file, Material, http.Fetch, string.find -- Нахуя писать хуйню которую я не собираюсь писать
 
 
