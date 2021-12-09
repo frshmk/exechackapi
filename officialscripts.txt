@@ -86,7 +86,7 @@
         "Rainbow Sky":{
 		"name":"rainbowsky",
 		"description":"Делает небо радужным",
-		"image":"https://i.imgur.com/PNoBm3O.png",
+		"image":"https://img.c0nfuse.ru/sky.gif",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/rainbowsky.lua",
 		"add_by":"Uploaded by undertwink"
 	},
