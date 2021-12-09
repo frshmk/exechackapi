@@ -41,12 +41,12 @@
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/crosshair.lua",
 		"add_by":"skeet to gmod by Exec"
 	},
-        "Putin Hack":{
+        "Putin Hack v6":{
 		"name":"putinhackv6",
-		"description":"добавляет худ с лицом Путина, и ещё фигня",
-		"image":"https://i.imgur.com/rjRH2sp.png",
+		"description":"Изменяет local player чамсы, добавляет крутой худ.",
+		"image":"https://i.imgur.com/u0NR2GY.png",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/putinhackv6.lua",
-		"add_by":"Uploaded by undertwink"
+		"add_by":"By farshmak & Gnome"
 	},
         "cringe hack":{
 		"name":"cringehack",
