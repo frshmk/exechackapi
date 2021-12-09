@@ -53,7 +53,7 @@
 		"description":"какаято луа паста,открыть cringemenu в консоль",
 		"image":"https://i.imgur.com/IW8ZEnT.png",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/cringehack.lua",
-		"add_by":"Add by undertwink"
+		"add_by":"Created by undertwink"
 	},
         "OBS bypass fix":{
 		"name":"obsfix",
@@ -107,7 +107,7 @@
         "Rainbow Physgun":{
 		"name":"rainbowphysgun",
 		"description":"Радужный физган",
-		"image":"https://i.imgur.com/RSqeP9T.png",
+		"image":"https://i.imgur.com/aCDBBZ2.png,
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/rainbowphysgun.lua",
 		"add_by":"Uploaded by Exec"
 	},
@@ -121,7 +121,7 @@
         "Solly exploiter":{
 		"name":"sollyexploiter",
 		"description":"Менюшка с экспилойтами",
-		"image":"",
+		"image":"https://i.imgur.com/bdOpBoQ.png",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/sollyexploiter.lua",
 		"add_by":"Uploaded by Exec"
 	},
@@ -156,7 +156,7 @@
 	"SmegHack":{
 		"name":"smeghack",
 		"description":"Чит на lua",
-		"image":"https://i.imgur.com/lMCe15d.png",
+		"image":"https://i.imgur.com/a/6RotdyW.png",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/smeghack.lua",
 		"add_by":"Uploaded by Exec"
 	},
