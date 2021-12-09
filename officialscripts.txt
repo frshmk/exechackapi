@@ -125,13 +125,6 @@
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/sollyexploiter.lua",
 		"add_by":"Uploaded by Exec"
 	},
-        "Trace bullets":{
-		"name":"tracebullets",
-		"description":"Показывает трейс от места, с которого по вам шмальнули Держится определённое время, потом исчезает",
-		"image":"",
-		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/tracebullets.lua",
-		"add_by":"Uploaded by Exec"
-	},
         "Admin List":{
 		"name":"adminlist",
 		"description":"Показывает всех админов в окне",
