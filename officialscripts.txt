@@ -135,7 +135,7 @@
         "TTT anti report":{
 		"name":"tttantireport",
 		"description":"Убирает окно с репортами на вас",
-		"image":"https://i.imgur.com/3ZdzJVy.png",
+		"image":"https://i.imgur.com/zmdYLQ7.png",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/tttantireport.lua",
 		"add_by":"Uploaded by Exec"
 	},
