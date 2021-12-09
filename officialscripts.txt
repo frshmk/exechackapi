@@ -2,7 +2,7 @@
 	"Watermark":{
 		"name":"watermark_autorun",
 		"description":"show name cheat, username, ping, tickrate, nameserver, gamemode",
-		"image":"https://i.imgur.com/YnmHzQ3.png",
+		"image":"https://i.imgur.com/XR67J24.png",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/watermark.lua",
 		"add_by":"Created by Exec"
 	},
@@ -121,7 +121,7 @@
         "Solly exploiter":{
 		"name":"sollyexploiter",
 		"description":"Менюшка с экспилойтами",
-		"image":"https://i.imgur.com/bdOpBoQ.png",
+		"image":"https://i.imgur.com/6DxI2hW.png",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/sollyexploiter.lua",
 		"add_by":"Uploaded by Exec"
 	},
@@ -142,7 +142,7 @@
         "Times Hack":{
 		"name":"timeshack",
 		"description":"Чит на lua",
-		"image":"https://i.imgur.com/9SyFNXR.png",
+		"image":"https://i.imgur.com/bdOpBoQ.png",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/timeshack.lua",
 		"add_by":"Uploaded by Exec"
 	},
