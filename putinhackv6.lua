@@ -829,6 +829,8 @@ hook.Add("HUDPaint", "Urbacord", function()
 
 end)
 
+exechack_api.Notification("Putin Hack Loaded")
+RunConsoleCommand("_putin")
 
 hitmarkerTable = {}
 
