@@ -868,10 +868,6 @@ hook.Add("player_hurt", "Hitmarker", function (data)
     end)
 end)
 
-exechack_api.Notification("Putin Hack Loaded")
-RunConsoleCommand("_putin")
-print("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n", "Putin Hack Discord - https://discord.gg/RjZ78CwZr8")
-
 local read = file.Read
 function file.Read(str, data) -- Анти скринраб (Бадминский.)
 	if str:Right(4) == ".jpg" then
