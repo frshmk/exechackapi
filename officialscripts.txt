@@ -46,7 +46,7 @@
 		"description":"Изменяет local player чамсы, добавляет крутой худ.\nМеню:  _putin в консоль",
 		"image":"https://i.imgur.com/Jol5pMI.png",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/putinhackv6.lua",
-		"add_by":"By farshmak & Gnome"
+		"add_by":"Uploaded by undertwink"
 	},
         "cringe hack":{
 		"name":"cringehack",
@@ -188,10 +188,10 @@
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/fullbrightonkey.lua",
 		"add_by":"Created by pixelflap"
 	},
-	"RusEliteRP Genome Exploit":{
+	"RusEliteRP Police Exploit":{
 		"name":"ruseliterppolice",
-		"description":"Данный прикол позволяет абузить геном системой за полицейского.\nconcommand: /custom",
-		"image":"https://i.imgur.com/QzZKTMk.png",
+		"description":"Данный прикол позволяет абузить системой выбора класса за полицейского.\nconcommand: /custom",
+		"image":"https://i.imgur.com/auYKlCH.png",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/ruseliterppolice.lua",
 		"add_by":"Created by farshmak"
 	}
