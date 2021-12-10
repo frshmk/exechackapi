@@ -6,6 +6,13 @@
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/watermark.lua",
 		"add_by":"Created by Exec"
 	},
+	"Jobsniper":{
+		"name":"jobsniper",
+		"description":"Возьмет за вас лимитную профу.\nМеню: _jobsniper в консоль",
+		"image":"https://i.imgur.com/TtZAiG6.jpg",
+		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/jobsniper.lua",
+		"add_by":"By Gnome"
+	},
 	"Cheater Marker":{
 		"name":"cheatermarker_autorun",
 		"description":"показывает радужный ник над читером, который в базе от Erick_Maksimets\n8к стимайдишников",
