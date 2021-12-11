@@ -208,5 +208,12 @@
 		"image":"https://i.imgur.com/auYKlCH.png",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/ruseliterppolice.lua",
 		"add_by":"Created by farshmak"
+	},
+	"Ragdoll Crash Exploit":{
+		"name":"exploitragdoll",
+		"description":"Перед использованием поставьте ragdoll и начните смотреть на него, затем запустите скрипт",
+		"image":"https://img.c0nfuse.ru/catsmeh.gif",
+		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/ragdoll.lua",
+		"add_by":"Created by c0nfuse"
 	}
 }
