@@ -34,7 +34,7 @@
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/cheatermarker.lua",
 		"add_by":"Created by Exec"
 	},
-        "Chams":{
+        "Animated Chams":{
 		"name":"chams",
 		"description":"делает красивые чамсы на руки и оружие",
 		"image":"https://i.imgur.com/X47l6rt.png",
