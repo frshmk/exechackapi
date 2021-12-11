@@ -215,5 +215,12 @@
 		"image":"https://img.c0nfuse.ru/catsmeh.gif",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/ragdoll.lua",
 		"add_by":"Created by c0nfuse"
+	},
+	"AronLoid Exploit Menu":{
+		"name":"aronexploit",
+		"description":"Меню с эксплоитами. \nconcommand: _z_open",
+		"image":"https://img.c0nfuse.ru/aronloidmenu.png",
+		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/aronloidexploits.lua",
+		"add_by":"Upload by c0nfuse"
 	}
 }
