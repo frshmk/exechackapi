@@ -199,7 +199,7 @@
 		"name":"forcebacktab",
 		"description":"На е удар ножом, с любой позиции но попадая в спину(с 1)",
 		"image":"https://i.imgur.com/1PYaa9u.png",
-		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/forcebacktab.lua",
+		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/forcebackstab.lua",
 		"add_by":"Uploaded by Exec"
 	},
 	"FullBright on key":{
