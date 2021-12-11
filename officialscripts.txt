@@ -13,6 +13,13 @@
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/jobsniper.lua",
 		"add_by":"Uploaded by farshmak"
 	},
+	"Wireframe Chams":{
+		"name":"wireframechams",
+		"description":"Wireframe чамсы для оружия в руках",
+		"image":"https://i.imgur.com/q7uamEh.jpg",
+		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/wireframechams.lua",
+		"add_by":"Uploaded by farshmak"
+	},
 	"TTT Traintor Finder":{
 		"name":"tttfinder",
 		"description":"В чат пишется ник трейтора",
