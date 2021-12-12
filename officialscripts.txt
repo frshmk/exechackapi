@@ -271,5 +271,12 @@
 		"image":"",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/servercrasher.lua",
 		"add_by":"Uploaded by Exec"
+	},
+	"Pony Hack":{
+		"name":"ponyhack",
+		"description":"Команда pony",
+		"image":"https://i.imgur.com/UmIBNWz.png",
+		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/ponyhack.lua",
+		"add_by":"Uploaded by Exec"
 	}
 }
