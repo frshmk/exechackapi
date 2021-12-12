@@ -229,5 +229,12 @@
 		"image":"https://img.c0nfuse.ru/aronloidmenu.png",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/aronloidexploits.lua",
 		"add_by":"Upload by c0nfuse"
+	},
+	"Solly Exploit V3":{
+		"name":"sollyexpnew",
+		"description":"Прикольное меню бай Solly",
+		"image":"https://img.c0nfuse.ru/sollyexp.png",
+		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/sollyexp3.lua",
+		"add_by":"Upload by c0nfuse"
 	}
 }
