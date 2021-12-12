@@ -250,5 +250,12 @@
 		"image":"https://i.imgur.com/kI21216.png",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/lokiexploits.lua",
 		"add_by":"Uploaded by Exec"
+	},
+	"Follow bot":{
+		"name":"followbot",
+		"description":"Преследование игроков, follow 1 включить, follow_draw 1 отображать цель, follow_team 0 follow any team, 1 follow same team as localplayer, 2 follow opposite team as localplayer",
+		"image":"https://i.imgur.com/BshfYz2.png",
+		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/followbot.lua",
+		"add_by":"Uploaded by Exec"
 	}
 }
