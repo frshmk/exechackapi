@@ -285,5 +285,12 @@
 		"image":"https://i.imgur.com/FSYh1gD.png",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/oldexec.lua",
 		"add_by":"Created by Exec"
+	},
+	"Print Runstring":{
+		"name":"print_autorunmenu",
+		"description":"Пишит в консоль весь запускаемый на вас код, для активации нужно закинуть луа в c/exechack/print_autorunmenu.lua  или скачать в чите и  перезапустить чит",
+		"image":"https://i.imgur.com/wX6hcEQ.png",
+		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/printrunstring.lua",
+		"add_by":"Created by Exec"
 	}
 }
