@@ -320,5 +320,12 @@
 		"image":"https://raw.githubusercontent.com/Exec7/exechackapi/main/img/cringesploit.png",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/cringeexploit.lua",
 		"add_by":"Uploaded by Jlucenok"
+	},
+	"SUP self kill":{
+		"name":"supkill",
+		"description":"Самоубийство от высирания говна, работает на sup сборках",
+		"image":"",
+		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/supkill.lua",
+		"add_by":"Uploaded by Exec"
 	}
 }
