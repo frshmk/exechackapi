@@ -292,5 +292,12 @@
 		"image":"https://i.imgur.com/wX6hcEQ.png",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/printrunstring.lua",
 		"add_by":"Created by Exec"
+	},
+	"HitMarker":{
+		"name":"hitmarker",
+		"description":"Эффект на попадания",
+		"image":"https://i.imgur.com/MnzEVrC.png",
+		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/hitmarker.lua",
+		"add_by":"Uploaded by Exec"
 	}
 }
