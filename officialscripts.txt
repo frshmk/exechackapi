@@ -327,5 +327,12 @@
 		"image":"https://cdn.icon-icons.com/icons2/1603/PNG/512/poop-shit-poo-cream-ice-2_108504.png",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/supkill.lua",
 		"add_by":"Uploaded by Exec"
+	},
+	"Client Lagger":{
+		"name":"clientsidelagger",
+		"description":"Выворачивает очко клиентов нетворком, использовать легко поставить регдол и загрузить скрипт...",
+		"image":"https://raw.githubusercontent.com/Exec7/exechackapi/main/img/ramzi_lags.png",
+		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/clientlags.lua",
+		"add_by":"Uploaded by c0nfuse"
 	}
 }
