@@ -323,8 +323,8 @@
 	},
 	"SUP self kill":{
 		"name":"supkill",
-		"description":"Самоубийство от высирания говна, работает на sup сборках",
-		"image":"",
+		"description":"Самоубийство от высирания говна с глистами которые разрывают очко, работает на sup сборках",
+		"image":"https://i.imgur.com/iIcEGYm.jpg",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/supkill.lua",
 		"add_by":"Uploaded by Exec"
 	}
