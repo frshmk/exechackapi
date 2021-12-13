@@ -284,6 +284,6 @@
 		"description":"Версия чита 24.10.2019 которую можно запустить и посмотреть как было раньше, download луашку или закинуть на c/exechack,запустить чит и унлоаднуть  и нажать del",
 		"image":"https://i.imgur.com/FSYh1gD.png",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/oldexec.lua",
-		"add_by":"Create by Exec"
+		"add_by":"Created by Exec"
 	}
 }
