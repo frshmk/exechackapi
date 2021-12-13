@@ -313,5 +313,12 @@
 		"image":"",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/bigname.lua",
 		"add_by":"Uploaded by Exec"
+	},
+	"Cringe Exploit":{
+		"name":"cringeexploit",
+		"description":"Ого, это КринжСплоит, очередная паста от нн, CringeSploit в консольку для менюшки",
+		"image":"https://raw.githubusercontent.com/Exec7/exechackapi/main/img/cringesploit.png",
+		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/cringeexploit.lua",
+		"add_by":"Uploaded by Jlucenok"
 	}
 }
