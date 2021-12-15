@@ -355,5 +355,12 @@
 		"image":"",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/murderfinder.lua",
 		"add_by":"Uploaded by Exec"
+	},
+	"Trace Bullets":{
+		"name":"tracebullets",
+		"description":"Показывает трейс от места, с которого по вам шмальнули Держится определённое время, потом исчезает",
+		"image":"",
+		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/tracebullets.lua",
+		"add_by":"Uploaded by Exec"
 	}
 }
