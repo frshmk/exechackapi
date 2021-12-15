@@ -359,7 +359,7 @@
 	"Trace Bullets":{
 		"name":"tracebullets",
 		"description":"Показывает трейс от места, с которого по вам шмальнули Держится определённое время, потом исчезает",
-		"image":"",
+		"image":"https://i.imgur.com/rsWzixb.png",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/tracebullets.lua",
 		"add_by":"Uploaded by Exec"
 	},
