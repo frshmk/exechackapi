@@ -334,5 +334,12 @@
 		"image":"https://raw.githubusercontent.com/Exec7/exechackapi/main/img/ramzi_lags.png",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/clientlags.lua",
 		"add_by":"Uploaded by c0nfuse"
+	},
+	"DLight":{
+		"name":"dlight",
+		"description":"Подсветка rainbow",
+		"image":"https://i.imgur.com/3F7yqw7.png",
+		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/dlight.lua",
+		"add_by":"Uploaded by KaryPlatnaer"
 	}
 }
