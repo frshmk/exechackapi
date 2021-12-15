@@ -348,5 +348,12 @@
 		"image":"",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/rpnamerandom.lua",
 		"add_by":"Uploaded by farshmak"
+	},
+	"Murder Finder":{
+		"name":"murderfinder",
+		"description":"Пишит в чат, убийцу при новом раунде, если на сервере стандартный нож с режима",
+		"image":"",
+		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/murderfinder.lua",
+		"add_by":"Uploaded by Exec"
 	}
 }
