@@ -362,5 +362,12 @@
 		"image":"",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/tracebullets.lua",
 		"add_by":"Uploaded by Exec"
+	},
+	"Snake":{
+		"name":"snake",
+		"description":"Игра snake",
+		"image":"",
+		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/snake.lua",
+		"add_by":"Uploaded by Exec"
 	}
 }
