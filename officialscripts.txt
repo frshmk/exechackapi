@@ -268,7 +268,7 @@
 	"Server Lagger":{
 		"name":"servercrasher",
 		"description":"Залагивает или крашит сервер, работает мало где, перед использованием нужно скачать https://github.com/danielga/gm_sourcenet/releases/download/1.1.14/gmsv_sourcenet_win32.dll и установить в steam/steamapps/common/GarrysMod/garrysmod/lua/bin",
-		"image":"",
+		"image":"https://i.imgur.com/8e4WcU0.png",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/servercrasher.lua",
 		"add_by":"Uploaded by Exec"
 	},
@@ -303,7 +303,7 @@
 	"Anti Teleport":{
 		"name":"antiteleport",
 		"description":"Меняет ник и отключает от сервера если вас телепортировал админ(срабатывает и на смену работы)",
-		"image":"",
+		"image":"https://i.imgur.com/2oEdRIJ.png",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/antiteleport.lua",
 		"add_by":"Uploaded by Exec"
 	},
