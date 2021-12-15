@@ -2,7 +2,7 @@
 	"Watermark":{
 		"name":"watermark_autorun",
 		"description":"show name cheat, username, ping, tickrate, nameserver, gamemode",
-		"image":"https://i.imgur.com/xT3S3jl.png",
+		"image":"https://i.imgur.com/G9QBgqk.png",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/watermark.lua",
 		"add_by":"Created by Exec"
 	},
