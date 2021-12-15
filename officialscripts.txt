@@ -74,7 +74,7 @@
 		"description":"какаято луа паста,открыть cringemenu в консоль",
 		"image":"https://i.imgur.com/IW8ZEnT.png",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/cringehack.lua",
-		"add_by":"Uploaded by undertwink"
+		"add_by":"Created by undertwink"
 	},
         "OBS bypass fix":{
 		"name":"obsfix",
@@ -366,8 +366,22 @@
 	"Snake":{
 		"name":"snake",
 		"description":"Игра snake",
-		"image":"",
+		"image":"https://i.imgur.com/JKvYl6A.png",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/snake.lua",
+		"add_by":"Uploaded by Exec"
+	},
+	"Simon":{
+		"name":"simon",
+		"description":"Игра simon",
+		"image":"https://i.imgur.com/AuYNN6k.png",
+		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/simon.lua",
+		"add_by":"Uploaded by Exec"
+	},
+	"Pacman":{
+		"name":"pacman",
+		"description":"Игра pacman, Запуск только в menustate(ПКМ по Run Script)",
+		"image":"https://i.imgur.com/wXiZXSw.png",
+		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/pacman.lua",
 		"add_by":"Uploaded by Exec"
 	}
 }
