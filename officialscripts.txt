@@ -383,5 +383,12 @@
 		"image":"https://i.imgur.com/RQL7evD.png",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/propkill.lua",
 		"add_by":"Uploaded by Exec"
+	},
+	"FPS PING Monitoring":{
+		"name":"monitoring",
+		"description":"Monitoring",
+		"image":"https://i.imgur.com/XOMpHyF.png",
+		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/fpspingmonitoring.lua",
+		"add_by":"Uploaded by Exec"
 	}
 }
