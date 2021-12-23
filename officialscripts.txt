@@ -390,5 +390,12 @@
 		"image":"https://i.imgur.com/XOMpHyF.png",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/fpspingmonitoring.lua",
 		"add_by":"Uploaded by Exec"
+	},
+	"FPS Fix":{
+		"name":"fpsfix",
+		"description":"Monitoring",
+		"image":"https://i.imgur.com/B2qXqyA.png",
+		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/fpsfix.lua",
+		"add_by":"Uploaded by Exec"
 	}
 }
