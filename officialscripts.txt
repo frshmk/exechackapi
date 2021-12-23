@@ -393,9 +393,9 @@
 	},
 	"FPS Fix":{
 		"name":"fpsfix",
-		"description":"Monitoring",
+		"description":"fps fix",
 		"image":"https://i.imgur.com/B2qXqyA.png",
-		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/fpsfix.lua",
+		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/fpxfix.lua",
 		"add_by":"Uploaded by Exec"
 	}
 }
