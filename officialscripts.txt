@@ -381,7 +381,7 @@
 		"name":"propkill",
 		"description":"Создает комманду ea_pkill, которую нужно забиндить",
 		"image":"https://i.imgur.com/RQL7evD.png",
-		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/propkill.lua",
+		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/propkiller.lua",
 		"add_by":"Uploaded by Exec"
 	},
 	"FPS PING Monitoring":{
