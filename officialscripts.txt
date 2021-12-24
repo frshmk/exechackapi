@@ -403,6 +403,6 @@
 		"description":"Просмотр видео со всеми кто запустил скрипт, HOME чтобы настроить позицию и видео, другие пользователи должны видеть ваше сообщение в чате.",
 		"image":"https://i.imgur.com/RyLS9lm.png",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/clientcinema.lua",
-		"add_by":"Uploaded by Exec"
+		"add_by":"Created by Exec"
 	}
 }
