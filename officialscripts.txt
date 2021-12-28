@@ -8,63 +8,63 @@
 	},
 	"Jobsniper":{
 		"name":"jobsniper",
-		"description":"Возьмет за вас лимитную профу как только она станет свободной.\nМеню: _jobsniper в консоль",
+		"description":"Will take the limit prof for you as soon as she becomes free.\nMenu: _jobsniper in console.",
 		"image":"https://i.imgur.com/0AJZlKr.png",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/jobsniper.lua",
 		"add_by":"Uploaded by farshmak"
 	},
 	"Wireframe Chams":{
 		"name":"wireframechams",
-		"description":"Wireframe чамсы для оружия в руках",
+		"description":"Wireframe chams for weapon.",
 		"image":"https://i.imgur.com/q7uamEh.jpg",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/wireframechams.lua",
 		"add_by":"Uploaded by farshmak"
 	},
 	"TTT Traintor Finder":{
 		"name":"tttfinder",
-		"description":"В чат пишется ник трейтора",
+		"description":"Print to chat Traitor name.",
 		"image":"https://i.imgur.com/rGDMiI1.png",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/tttfinder.lua",
 		"add_by":"Uploaded by farshmak"
 	},
 	"Cheater Marker":{
 		"name":"cheatermarker_autorun",
-		"description":"показывает радужный ник над читером, который в базе от Erick_Maksimets\n8к стимайдишников",
+		"description":"Add ESP on cheaters from the database by Erick_Maksimets\n8000 steamid.",
 		"image":"https://i.imgur.com/Nm8m6TA.png",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/cheatermarker.lua",
 		"add_by":"Created by Exec"
 	},
         "Animated Chams":{
 		"name":"chams",
-		"description":"делает красивые чамсы на руки и оружие",
+		"description":"Chams for weapon.",
 		"image":"https://i.imgur.com/X47l6rt.png",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/chams.lua",
 		"add_by":"Uploaded by undertwink"
 	},
 	"FamilySharing checker":{
 		"name":"familysharingchecker",
-		"description":"Просмотр игроков в консоле использующих family sharing на сервере, real - с какого раздает, fake - с какого играет",
+		"description":"Print in console all family sharing accounts, real - game own, fake - play now",
 		"image":"https://i.imgur.com/hpV7MJc.png",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/familysharingchecker.lua",
 		"add_by":"Created by Exec"
 	},
 	"Legit mode on spectate":{
 		"name":"legitmode_autorun",
-		"description":"Отключает nospread, включает smooth во время наблюдения админа\nexechackapi enabled!",
+		"description":"Disabled NoSpread and set smooth 8 in spectate.",
 		"image":"https://i.imgur.com/QzasaGq.png",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/legitmode.lua",
 		"add_by":"Created by Exec"
 	},
 	"Crosshair Swastika":{
 		"name":"crosshair_swastika",
-		"description":"Крутится и rainbow цветом",
+		"description":"Custom CrossHair.",
 		"image":"https://i.imgur.com/MjDEUje.png",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/crosshair.lua",
 		"add_by":"Created by Exec"
 	},
         "Putin Hack v6":{
 		"name":"putinhackv6",
-		"description":"Изменяет local player чамсы, добавляет крутой худ и хитмаркеры.\nМеню:  _putin в консоль",
+		"description":"Change local player chams, added cool hud and hitmarkers.\nMenu: _putin to console.",
 		"image":"https://i.imgur.com/TBGSP3K.png",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/putinhackv6.lua",
 		"add_by":"Created by farshmak"
@@ -85,56 +85,56 @@
 	},
         "TTS":{
 		"name":"tts",
-		"description":"Озвучивает сообщения всех игроков",
+		"description":"Voices messages of all players",
 		"image":"https://i.imgur.com/0c9Kn9C.png",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/tts.lua",
 		"add_by":"Created by Exec"
 	},
         "Dark snow bangclaw":{
 		"name":"darkbangclaw",
-		"description":"Добавляет снег",
+		"description":"Changes the map",
 		"image":"https://i.imgur.com/XfeJpKz.png",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/dark_bangclaw.lua",
 		"add_by":"Created by Exec"
 	},
         "Fast Flashlight":{
 		"name":"fastflashlight",
-		"description":"Позволяет быстро включать/выключать фонарик",
+		"description":"Allows you to quickly turn on/off the flashlight.",
 		"image":"https://i.imgur.com/pWciT0n.gif",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/flashlight.lua",
 		"add_by":"Uploaded by undertwink"
 	},
         "Rainbow Sky":{
 		"name":"rainbowsky",
-		"description":"Делает небо радужным",
+		"description":"Makes the sky rainbow.",
 		"image":"https://img.c0nfuse.ru/sky.gif",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/rainbowsky.lua",
 		"add_by":"Uploaded by undertwink"
 	},
         "Auto Fullbright":{
 		"name":"autofullbright",
-		"description":"Авто включение fullbright, на bangclaw, в позъемке",
+		"description":"Automatically fullbright, on map bangclaw.",
 		"image":"https://i.imgur.com/G1EkRmw.png",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/fullbright_autorun.lua",
 		"add_by":"Created by Exec"
 	},
         "AntiNLR":{
 		"name":"antinlr",
-		"description":"Отключает NLR эффект",
+		"description":"Remove NLR effect",
 		"image":"https://i.imgur.com/G2Ke5Df.png",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/antinlr.lua",
 		"add_by":"Uploaded by Exec"
 	},
         "Rainbow Physgun":{
 		"name":"rainbowphysgun",
-		"description":"Радужный физган",
+		"description":"Rainbow Physgun.",
 		"image":"https://img.c0nfuse.ru/physgun.gif",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/rainbowphysgun.lua",
 		"add_by":"Uploaded by Exec"
 	},
         "Show Damage":{
 		"name":"showdamage",
-		"description":"Показ нанесенного урона",
+		"description":"Show damage done.",
 		"image":"https://i.imgur.com/57vOzaI.png",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/showdamage.lua",
 		"add_by":"Created by Exec"
@@ -148,14 +148,14 @@
 	},
         "Admin List":{
 		"name":"adminlist",
-		"description":"Показывает всех админов в окне",
+		"description":"Shows all admins in the window",
 		"image":"https://i.imgur.com/K85stvL.png",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/adminlist.lua",
 		"add_by":"Uploaded by Exec"
 	},
         "TTT anti report":{
 		"name":"tttantireport",
-		"description":"Убирает окно с репортами на вас",
+		"description":"Remove window with reports on you.",
 		"image":"https://i.imgur.com/zmdYLQ7.png",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/tttantireport.lua",
 		"add_by":"Uploaded by Exec"
@@ -176,35 +176,35 @@
 	},
 	"Keypad Logger":{
 		"name":"smeghack",
-		"description":"Работает с securemode(* вместо цифр) но плохая точность, и не работает на саповские кейпады",
+		"description":"Working with securemode(* replace), poor accuracy.",
 		"image":"https://i.imgur.com/5Ud0j13.png",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/keypadlogger.lua",
 		"add_by":"Uploaded by Exec"
 	},
 	"Legit Chams":{
 		"name":"legitchams",
-		"description":"",
+		"description":"The chams is not visible through the walls.",
 		"image":"https://i.imgur.com/QS1ewdC.png",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/legitchams.lua",
 		"add_by":"Uploaded by Exec"
 	},
 	"Hitbox on aimtarget":{
 		"name":"hitboxs",
-		"description":"Показывает хитбоксы на цель аима",
+		"description":"Show hitboxs on aimtarget.",
 		"image":"https://i.imgur.com/xmxgYWM.png",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/hitboxs.lua",
 		"add_by":"Created by Exec"
 	},
 	"Force backstab":{
 		"name":"forcebacktab",
-		"description":"На е удар ножом, с любой позиции но попадая в спину(с 1 раза)",
+		"description":"On KEY_E to stab, сany position but hitting the back (from 1 time).",
 		"image":"https://i.imgur.com/1PYaa9u.png",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/forcebackstab.lua",
 		"add_by":"Uploaded by Exec"
 	},
 	"FullBright on key":{
 		"name":"fullbrightkey",
-		"description":"Создает комманду fb, которую нужно забиндить",
+		"description":"Create command fb, for keybind.",
 		"image":"https://i.imgur.com/Dlqc7dY.png",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/fullbrightonkey.lua",
 		"add_by":"Created by pixelflap"
