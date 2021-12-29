@@ -358,28 +358,28 @@
 	},
 	"Snake":{
 		"name":"snake",
-		"description":"Игра snake (Доступен запуск в меню, ПКМ по Run Script)",
+		"description":"Mini-Game (Доступен запуск в меню, ПКМ по Run Script)",
 		"image":"https://i.imgur.com/JKvYl6A.png",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/snake.lua",
 		"add_by":"Uploaded by Exec"
 	},
 	"Simon":{
 		"name":"simon",
-		"description":"Игра simon (Доступен запуск в меню, ПКМ по Run Script)",
+		"description":"Mini-Game (Доступен запуск в меню, ПКМ по Run Script)",
 		"image":"https://i.imgur.com/AuYNN6k.png",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/simon.lua",
 		"add_by":"Uploaded by Exec"
 	},
 	"Pacman":{
 		"name":"pacman",
-		"description":"Игра pacman (Запуск только в меню, ПКМ по Run Script)",
+		"description":"Mini-Game (Запуск только в меню, ПКМ по Run Script)",
 		"image":"https://i.imgur.com/wXiZXSw.png",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/pacman.lua",
 		"add_by":"Uploaded by Exec"
 	},
 	"Fast Prop-Kill":{
 		"name":"propkill",
-		"description":"Создает комманду ea_pkill, которую нужно забиндить",
+		"description":"Create command: ea_pkill, for keybind",
 		"image":"https://i.imgur.com/RQL7evD.png",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/propkiller.lua",
 		"add_by":"Uploaded by Exec"
@@ -393,21 +393,21 @@
 	},
 	"FPS Fix":{
 		"name":"fpsfix",
-		"description":"fps fix",
+		"description":"fps boost",
 		"image":"https://i.imgur.com/B2qXqyA.png",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/fpxfix.lua",
 		"add_by":"Uploaded by Exec"
 	},
 	"Client Cinema":{
 		"name":"clientcinema",
-		"description":"Просмотр видео со всеми кто запустил скрипт, HOME чтобы настроить позицию и видео, другие пользователи должны видеть ваше сообщение в чате.",
+		"description":"Watching a video with everyone who ran the script, press HOME to adjust the position and video, other users should see your message in the chat.",
 		"image":"https://i.imgur.com/RyLS9lm.png",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/clientcinema.lua",
 		"add_by":"Created by Exec"
 	},
 	"Eye Trace":{
 		"name":"eyetrace",
-		"description":"Линия от глаз игрока",
+		"description":"Line from player eye",
 		"image":"https://i.imgur.com/wwaUser.png",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/eyetrace.lua",
 		"add_by":"Uploaded by Exec"
