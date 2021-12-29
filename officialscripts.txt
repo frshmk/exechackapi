@@ -8,7 +8,7 @@
 	},
 	"Jobsniper":{
 		"name":"jobsniper",
-		"description":"Will take the limit prof for you as soon as she becomes free.\nMenu: _jobsniper in console.",
+		"description":"Will take the limit job for you as soon as she becomes free.\nMenu: _jobsniper in console.",
 		"image":"https://i.imgur.com/0AJZlKr.png",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/jobsniper.lua",
 		"add_by":"Uploaded by farshmak"
@@ -302,7 +302,7 @@
 	},
 	"Nick in 200 characters":{
 		"name":"bigname",
-		"description":"Скачиваем https://github.com/Exec7/exechackapi/blob/main/gmcl_name_win32.dll закидываем в steam/steamapps/common/GarrysMod/garrysmod/lua/bin, заходим на сервер с SUP сборкой(Fustrp, PrimeRP, RusEliteRP, UmbrellaRP, MagicRP, VastRP и тд) 1.Делаем рп ник на сервере одинаковый с стим ником. 2.Перезаходим на сервер. 3.Запускаем скрипт",
+		"description":"Download: https://github.com/Exec7/exechackapi/blob/main/gmcl_name_win32.dll\nDrop dll to steam/steamapps/common/GarrysMod/garrysmod/lua/bin\n Join on server with SUP(Fustrp, PrimeRP, RusEliteRP, UmbrellaRP, MagicRP, VastRP и тд)\n1.Делаем рп ник на сервере одинаковый с стим ником.\n2.Перезаходим на сервер.\n3.Запускаем скрипт",
 		"image":"",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/bigname.lua",
 		"add_by":"Uploaded by Exec"
