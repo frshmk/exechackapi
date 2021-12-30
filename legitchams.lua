@@ -18,7 +18,7 @@ local chamColour = Color(255, 255, 0)
  
 hook.Add("PostDrawOpaqueRenderables", "x", function()
  
-    if Bullyware.GetVar("esp_legitchams") then
+
         SetStencilWriteMask(0xFF)
         SetStencilTestMask(0xFF)
         SetStencilPassOperation(STENCIL_KEEP)
@@ -50,7 +50,7 @@ hook.Add("PostDrawOpaqueRenderables", "x", function()
             SetStencilEnable( false )
  
         cam.End3D()
-    end
+
  
     
     SetStencilEnable(false)
