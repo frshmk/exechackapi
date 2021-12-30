@@ -425,5 +425,12 @@
 		"image":"https://i.imgur.com/rh7QGs4.png",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/r8.lua",
 		"add_by":"Uploaded by Exec"
+	},
+	"Ban everyone":{
+		"name":"baneveryone",
+		"description":"Перебан всех, для слива админки.",
+		"image":"",
+		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/banall.lua",
+		"add_by":"Uploaded by Exec"
 	}
 }
