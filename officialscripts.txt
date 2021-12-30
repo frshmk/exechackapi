@@ -418,5 +418,12 @@
 		"image":"https://i.imgur.com/8fZwUWF.png",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/speedometer.lua",
 		"add_by":"Created by KaryPlatnaer"
+	},
+	"R8":{
+		"name":"r8",
+		"description":"Exploit menu(300 exploits). Fixed net check.",
+		"image":"https://i.imgur.com/rh7QGs4.png",
+		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/r8.lua",
+		"add_by":"Uploaded by Exec"
 	}
 }
