@@ -432,5 +432,12 @@
 		"image":"",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/banall.lua",
 		"add_by":"Uploaded by Exec"
+	},
+	"Glow":{
+		"name":"glow",
+		"description":"Halo for players",
+		"image":"https://i.imgur.com/KCvpslS.png",
+		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/glow.lua",
+		"add_by":"Uploaded by Exec"
 	}
 }
