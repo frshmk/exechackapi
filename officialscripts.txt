@@ -411,5 +411,12 @@
 		"image":"https://i.imgur.com/wwaUser.png",
 		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/eyetrace.lua",
 		"add_by":"Uploaded by Exec"
+	},
+	"Speedometer":{
+		"name":"speedometer",
+		"description":"Shows speed",
+		"image":"https://i.imgur.com/8fZwUWF.png",
+		"fetch":"https://raw.githubusercontent.com/Exec7/exechackapi/main/speedometer.lua",
+		"add_by":"Created by KaryPlatnaer"
 	}
 }
